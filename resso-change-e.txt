@@ -1,10 +1,10 @@
 FONIX RESSO UPDATE :
 
 
-🏷Base Update 1.76.1
+🏷Base Update 1.77.0
 
-1. Option to Added Disable/Enable New UI(Long Press The New Setting Icon )
+1. Enabled Login page Foldable devices.
+   
+2. Updated Privacy Settings
 
-2. Enabled Song Import Guide. (via  Soundizz )
-
-3. Enabled new artist page.
+3. Fixed Pervious Version issues
